@@ -1,3 +1,14 @@
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ИМТ+КАЛЬКУЛЯТОР)](https://git.io/typing-svg)
+
+Этот проект был создан для практики во фронт-энд разработке и поиска себя в этом направлении.
+
+**Включает в себя:**
+
+- Работу с файлами html
+- Работу с css
+- Работу с js
+- Работу с react и тд
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
